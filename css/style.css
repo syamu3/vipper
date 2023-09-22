@@ -1,3 +1,7 @@
+body {
+    background-color: lightskyblue;
+}
+
 .center {
     display: flex;
     justify-content: center;
