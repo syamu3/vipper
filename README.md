@@ -1,4 +1,6 @@
 # vipper
 vipper's website
 
-あ
+自由にコードを書き加えてOK
+
+Fork⇒編集⇒プルリクしてね
