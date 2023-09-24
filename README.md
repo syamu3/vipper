@@ -1,5 +1,4 @@
-# vipper
-vipper's website
+# vipperのホームページ
 
 自由にコードを書き加えてOK
 
